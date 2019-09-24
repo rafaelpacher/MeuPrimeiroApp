@@ -43,6 +43,7 @@ namespace MeuPrimeiroApp
             var valor1 = 10;
             var valor2 = 2;
 
+            //resultado da divisão
             var resultado = valor1 / valor2;
 
             MessageBox.Show(resultado.ToString());
